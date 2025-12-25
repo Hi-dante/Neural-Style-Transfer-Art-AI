@@ -26,10 +26,10 @@ Academic / Learning Project
 ## Results
 
 ### Content Image
-![Content Image](images/content image.jpg)
+![Content Image](images/content.jpg)
 
 ### Style Image
-![Style Image](images/style image.jpg)
+![Style Image](images/style.jpg)
 
 ### Stylized Output
 ![Stylized Output](images/output.jpg)
@@ -44,7 +44,7 @@ Academic / Learning Project
 ## Training Loss Curve
 The plot below shows the convergence of total, content, and style loss during optimization.
 
-![Loss Curve](images/loss_curve.jpg)
+![Loss Curve](images/losscurve.jpg)
 
 ---
 
