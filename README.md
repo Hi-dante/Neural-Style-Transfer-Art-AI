@@ -22,3 +22,34 @@ The complete implementation is available in the Jupyter notebook:
 
 ## Project Type
 Academic / Learning Project
+
+## Results
+
+### Content Image
+![Content Image](images/content image.jpg)
+
+### Style Image
+![Style Image](images/style image.jpg)
+
+### Stylized Output
+![Stylized Output](images/output.jpg)
+
+### final result 
+![Result Output](images/result.jpg)
+
+
+
+---
+
+## Training Loss Curve
+The plot below shows the convergence of total, content, and style loss during optimization.
+
+![Loss Curve](images/loss_curve.jpg)
+
+---
+
+## Presentation
+A detailed presentation explaining the project architecture, loss functions, and results is available here:
+
+[Neural Style Transfer – Project Presentation](Neural Style Transfer art and AI.pdf)
+
