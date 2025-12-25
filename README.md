@@ -25,31 +25,30 @@ Academic / Learning Project
 
 ## Results
 
-### Content Image
-![Content Image](images/content.jpg)
+### 📌 Content Image
+<img src="content.jpg" width="350" alt="Content Image">
 
-### Style Image
-![Style Image](images/style.jpg)
+### 📌 Style Image
+<img src="style.jpg" width="350" alt="Style Image">
 
-### Stylized Output
-![Stylized Output](images/output.jpg)
+### 📌 Stylized Output
+<img src="output.jpg" width="350" alt="Stylized Output">
 
-### final result 
-![Result Output](images/result.jpg)
-
-
+### 📌 Final Result
+<img src="result.jpg" width="350" alt="Final Result">
 
 ---
 
 ## Training Loss Curve
 The plot below shows the convergence of total, content, and style loss during optimization.
 
-![Loss Curve](images/losscurve.jpg)
+<img src="losscurve.jpg" width="400" alt="Training Loss Curve">
 
 ---
 
 ## Presentation
 A detailed presentation explaining the project architecture, loss functions, and results is available here:
 
-[Neural Style Transfer – Project Presentation](Neural Style Transfer art and AI.pdf)
+ [**Neural Style Transfer – Project Presentation (PDF)**](./Neural%20Style%20Transfer%20art%20and%20AI.pdf)
+
 
