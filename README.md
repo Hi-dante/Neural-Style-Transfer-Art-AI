@@ -49,6 +49,6 @@ The plot below shows the convergence of total, content, and style loss during op
 ## Presentation
 A detailed presentation explaining the project architecture, loss functions, and results is available here:
 
- [**Neural Style Transfer – Project Presentation (PDF)**](./Neural%20Style%20Transfer%20art%20and%20AI.pdf)
+ [**Neural Style Transfer – Project Presentation (PDF)**](./NeuralStyleTransferartandAI.pdf)
 
 
